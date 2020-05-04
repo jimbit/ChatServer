@@ -1,0 +1,2 @@
+# chatserver
+可以工作在nginx tcp负载均衡环境下的聊天服务器和客户端代码，基于muduo库实现用到了redis和mysql
